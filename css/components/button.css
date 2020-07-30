@@ -1,0 +1,12 @@
+.btn-primary {
+    display: inline-block;
+    background-color: #c56fb7;
+    padding: 16px 36px;
+    border-radius: 50px;
+    color: white;
+}
+
+.btn-primary:hover {
+  background-color: #efc2e7;
+}
+
